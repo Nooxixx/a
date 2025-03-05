@@ -30,11 +30,11 @@
         }
         .button1 {
             background-color: #4caf50;
-            color: white;
+            color: yellow;
         }
         .button2 {
             background-color: #008cba;
-            color: white;
+            color: yellow;
         }
     </style>
 </head>
@@ -42,8 +42,6 @@
     <h1>¡Feliz Cumpleaños!</h1>
     <p>Espero que la pases muy bien :D.</p>
     <div class="buttons">
-        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=EyccVPKqWIY&ab_channel=DamasGratisOficial'">Feliz cumpleaños<
-        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=N-QMzFaRSXQ&ab_channel=FELIZCUMPLEDEDICADO'">Bernapascu<
-    </div>
-</body>
-</html>
+        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=EyccVPKqWIY&ab_channel=DamasGratisOficial'">Feliz cumpleaños
+        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=N-QMzFaRSXQ&ab_channel=FELIZCUMPLEDEDICADO'">Bernapascu
+
