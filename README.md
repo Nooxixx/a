@@ -1,5 +1,5 @@
 
-    </style>
+ 
 </head>
 <body>
     <h1>¡Feliz Cumpleaños!</h1>
