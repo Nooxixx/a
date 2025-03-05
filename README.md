@@ -6,13 +6,7 @@
     <title>Feliz Cumpleaños Berna</title>
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            flex-direction: column;
-            background-color: #f0e68c;
-            font-family: Arial, sans-serif;
+          
         }
         h1 {
             color: #ff4500;
