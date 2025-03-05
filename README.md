@@ -1,20 +1,20 @@
 
  
 </head>
-<body>
-    <h1>¡Feliz Cumpleaños!</h1>
-    <p>Espero que la pases muy bien :D.</p>
-    <div class="buttons">
-        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=EyccVPKqWIY&ab_channel=DamasGratisOficial'">Feliz cumpleaños
-        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=N-QMzFaRSXQ&ab_channel=FELIZCUMPLEDEDICADO'">Bernapascu
-        ody {
-    background-color: blue;
+<body> background-color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
+    <h1>¡Feliz Cumpleaños!</h1>
+    <p>Espero que la pases muy bien :D.</p>
+    <div class="buttons">
+        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=EyccVPKqWIY&ab_channel=DamasGratisOficial'">Feliz cumpleaños
+        <button class="button" onclick="location.href='https://www.youtube.com/watch?v=N-QMzFaRSXQ&ab_channel=FELIZCUMPLEDEDICADO'">Bernapascu
+        ody {
+   
 }
 
 .container {
